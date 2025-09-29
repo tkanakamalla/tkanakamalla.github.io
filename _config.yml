@@ -21,19 +21,22 @@
 title: Taruntej Kanakamalla
 email: taruntejk@live.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Digging Multimedia Softwares at asymptotic.io. Used to build Embedded Systems. Travel Enthusiast. Sporadic reader. Frequent day dreamer
+  Digging Multimedia Softwares at Centricular Ltd. Used to build Embedded Systems. Travel Enthusiast. Sporadic reader. Frequent day dreamer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: taruntejk
+
 github_username:  tkanakamalla
+mastodon:
+- username: taruntejk
+  instance: hachyderm.io
 # social_links:
 #     # Mastodon instances
-#     mastodon:
-#     - username: taruntejk
-#       instance: hachyderm.io
-#     gitlab:
-#     - username: tkanakamalla
-#       instance: gitlab.freedesktop.com
+# - title: tkanakamalla
+# - icon: gitlab
+# - url: gitlab.freedesktop.com
+gitlab:
+- username: tkanakamalla
+  instance: gitlab.freedesktop.com
 
 # Build settings
 theme: minima

@@ -13,7 +13,7 @@ So, catching up on the happenings, I moved to [Centricular][1] around mid of las
 
 Some important updates summarizing the work I have done since my last post:
 
-- Few [clock related fixes][10] in the `pipewiresink` before wrapping up at Asymptotic. I was hoping to write a past on my learnings during this work but I just could make manage time for that. But I want to take it up sooner or later. It will also be a good chance to revisit `PipeWire` and get back some context so I can continue contributing to it again.
+- Added a few [clock related fixes][10] in the `pipewiresink` before wrapping up at Asymptotic. I was hoping to write a post on my learnings during this work but I just could not manage time for that. I want to take it up sooner or later, as it will also be a good chance to revisit `PipeWire` and get back some context so I can continue contributing to it again.
 
 - Worked on GStreamer FLV plugins to add multitrack audio/video support following the new specification of Enhanced RTMP(v2). I wrote about this in the [Centricular devlog][3] and also [spoke][4] at the last year's [GStreamer Conference at London][5].
 
